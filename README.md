@@ -1,2 +1,2 @@
 # SQL-Tableau
-SQL querys with tableau visual
+Created a dashboard using Tableu after cleaning the data in SQL. 
